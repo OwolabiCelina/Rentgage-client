@@ -1,0 +1,164 @@
+Link{
+    font-style:normal;
+    text-decoration:none;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/* Hero Section */
+.SHome{
+    background-image: url('../src/assets/images/empy-room.png');
+    width: 100%;       
+}
+
+.Shero_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 60px;
+    padding-bottom: 150px; 
+    width: 75%;
+    margin: 0 auto;   
+}
+.Shero_h1_p > h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 80px;
+    color: #0F2F66;
+    margin-bottom: 48px;
+}
+.Shero__button {
+    padding: 0.6rem 6rem;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.hero__container-button > a{
+    text-decoration:none;
+    color:#fff;
+}
+.Shero__container1 > img{
+    height: 2.5rem;
+    
+}
+/* End of Hero Section */
+/* Home Feature Section */
+.SFeature{
+    background-color:#ECF4FF;;
+}
+.SFeature__container-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 55px;
+    padding-bottom: 105px;
+}
+.SFeature__container-2 > h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 1.5;
+    color: #0F2F66;
+    padding-bottom: 65px;
+}
+.SFeature__container-main{
+    display: flex;
+    
+    align-items: center;  
+    text-align: center;  
+}
+.SFeature__container-minor{
+    display: flex;
+   
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.SFeature__container-mini1{
+    height: 90px;
+}
+.SFeature__container-mini2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: center;
+    color: #0F2F66;
+}
+.SFeature__container-mini0{
+    padding: 0.1rem 1rem
+}
+.SFeature__container-mini3{
+    font-style: normal;
+    font-weight: normal;
+     line-height: 20px;
+    text-align: center;
+    color: #0F2F66;
+    padding: 0.9rem 1rem;
+}
+/* End of Feature Section */
+/* Apartment Section */
+.SApartment{
+    padding-top: 64px;
+    padding-bottom: 106px;
+}
+.SApartment__container-1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.span span  a{    
+    border-bottom: 1px solid black;
+}
+.SApartment__container-1 .SApartment__container-i > h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 84px;
+    color: #0F2F66;
+    padding-bottom: 105px;
+}
+.apply__late{
+    margin-top: -150px;
+}
+.apply__late > h1{
+    color: #3B7980; 
+    
+}
+
+.SApartment__container-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+}
+.SApartment__container-5 > img{
+    padding-bottom: 120px;
+    
+}
+.SApartment__container-4 > h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #3B7980; 
+}
+.SApartment__container-4 > div > p  {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;    
+    text-align: center;    
+    color: #3B7980;
+    padding: 1rem;
+}
+.Apartment__container-4 > img{
+    height: 90px;
+}
+
+/* End of Apartment Section */
